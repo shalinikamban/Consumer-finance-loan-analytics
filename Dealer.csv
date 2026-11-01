@@ -1,0 +1,601 @@
+Dealer_ID,Dealer_Name,Dealer_Type,State,City
+D1001,Dealer_1001,Large Retailer,Andhra Pradesh,Vijayawada
+D1002,Dealer_1002,Independent,Kerala,Thiruvananthapuram
+D1003,Dealer_1003,Independent,Karnataka,Bengaluru
+D1004,Dealer_1004,Multi Brand,Karnataka,Mysuru
+D1005,Dealer_1005,Independent,Delhi NCR,Ghaziabad
+D1006,Dealer_1006,Large Retailer,Andhra Pradesh,Guntur
+D1007,Dealer_1007,Multi Brand,West Bengal,Durgapur
+D1008,Dealer_1008,Large Retailer,Karnataka,Hubballi
+D1009,Dealer_1009,Multi Brand,Tamil Nadu,Coimbatore
+D1010,Dealer_1010,Independent,Karnataka,Mysuru
+D1011,Dealer_1011,Independent,Telangana,Hyderabad
+D1012,Dealer_1012,Multi Brand,West Bengal,Siliguri
+D1013,Dealer_1013,Large Retailer,Kerala,Kochi
+D1014,Dealer_1014,Multi Brand,Andhra Pradesh,Tirupati
+D1015,Dealer_1015,Multi Brand,Karnataka,Bengaluru
+D1016,Dealer_1016,Independent,Telangana,Nizamabad
+D1017,Dealer_1017,Multi Brand,Andhra Pradesh,Tirupati
+D1018,Dealer_1018,Independent,Kerala,Kozhikode
+D1019,Dealer_1019,Large Retailer,Telangana,Hyderabad
+D1020,Dealer_1020,Multi Brand,Delhi NCR,Delhi
+D1021,Dealer_1021,Large Retailer,Maharashtra,Mumbai
+D1022,Dealer_1022,Independent,Telangana,Hyderabad
+D1023,Dealer_1023,Multi Brand,Tamil Nadu,Tirunelveli
+D1024,Dealer_1024,Independent,Andhra Pradesh,Visakhapatnam
+D1025,Dealer_1025,Large Retailer,Kerala,Thiruvananthapuram
+D1026,Dealer_1026,Multi Brand,Karnataka,Hubballi
+D1027,Dealer_1027,Large Retailer,Andhra Pradesh,Guntur
+D1028,Dealer_1028,Large Retailer,Telangana,Warangal
+D1029,Dealer_1029,Multi Brand,Tamil Nadu,Coimbatore
+D1030,Dealer_1030,Multi Brand,West Bengal,Durgapur
+D1031,Dealer_1031,Independent,Tamil Nadu,Tirunelveli
+D1032,Dealer_1032,Multi Brand,Telangana,Nizamabad
+D1033,Dealer_1033,Independent,Kerala,Kochi
+D1034,Dealer_1034,Independent,Maharashtra,Nashik
+D1035,Dealer_1035,Multi Brand,Kerala,Kozhikode
+D1036,Dealer_1036,Multi Brand,Telangana,Nizamabad
+D1037,Dealer_1037,Large Retailer,Maharashtra,Nashik
+D1038,Dealer_1038,Large Retailer,Delhi NCR,Gurugram
+D1039,Dealer_1039,Multi Brand,Delhi NCR,Ghaziabad
+D1040,Dealer_1040,Independent,Maharashtra,Mumbai
+D1041,Dealer_1041,Independent,Kerala,Kozhikode
+D1042,Dealer_1042,Multi Brand,Karnataka,Mangaluru
+D1043,Dealer_1043,Multi Brand,Telangana,Hyderabad
+D1044,Dealer_1044,Large Retailer,Tamil Nadu,Tirunelveli
+D1045,Dealer_1045,Multi Brand,Andhra Pradesh,Vijayawada
+D1046,Dealer_1046,Multi Brand,Kerala,Kozhikode
+D1047,Dealer_1047,Large Retailer,Andhra Pradesh,Guntur
+D1048,Dealer_1048,Large Retailer,Telangana,Nizamabad
+D1049,Dealer_1049,Large Retailer,Delhi NCR,Noida
+D1050,Dealer_1050,Large Retailer,Maharashtra,Pune
+D1051,Dealer_1051,Large Retailer,Maharashtra,Mumbai
+D1052,Dealer_1052,Multi Brand,Karnataka,Mangaluru
+D1053,Dealer_1053,Large Retailer,Delhi NCR,Noida
+D1054,Dealer_1054,Multi Brand,Maharashtra,Nagpur
+D1055,Dealer_1055,Multi Brand,Karnataka,Bengaluru
+D1056,Dealer_1056,Multi Brand,Tamil Nadu,Trichy
+D1057,Dealer_1057,Large Retailer,Telangana,Nizamabad
+D1058,Dealer_1058,Independent,Maharashtra,Nagpur
+D1059,Dealer_1059,Large Retailer,Karnataka,Bengaluru
+D1060,Dealer_1060,Multi Brand,Karnataka,Bengaluru
+D1061,Dealer_1061,Large Retailer,Kerala,Kozhikode
+D1062,Dealer_1062,Large Retailer,Telangana,Hyderabad
+D1063,Dealer_1063,Large Retailer,Telangana,Nizamabad
+D1064,Dealer_1064,Large Retailer,Kerala,Thiruvananthapuram
+D1065,Dealer_1065,Large Retailer,Delhi NCR,Ghaziabad
+D1066,Dealer_1066,Independent,Maharashtra,Mumbai
+D1067,Dealer_1067,Large Retailer,Kerala,Kozhikode
+D1068,Dealer_1068,Large Retailer,Delhi NCR,Ghaziabad
+D1069,Dealer_1069,Independent,Telangana,Hyderabad
+D1070,Dealer_1070,Multi Brand,West Bengal,Durgapur
+D1071,Dealer_1071,Large Retailer,West Bengal,Siliguri
+D1072,Dealer_1072,Independent,Tamil Nadu,Coimbatore
+D1073,Dealer_1073,Independent,Tamil Nadu,Coimbatore
+D1074,Dealer_1074,Multi Brand,Telangana,Nizamabad
+D1075,Dealer_1075,Multi Brand,Delhi NCR,Ghaziabad
+D1076,Dealer_1076,Large Retailer,Telangana,Hyderabad
+D1077,Dealer_1077,Independent,Tamil Nadu,Tirunelveli
+D1078,Dealer_1078,Independent,Andhra Pradesh,Guntur
+D1079,Dealer_1079,Large Retailer,Tamil Nadu,Salem
+D1080,Dealer_1080,Multi Brand,Maharashtra,Pune
+D1081,Dealer_1081,Multi Brand,Karnataka,Mangaluru
+D1082,Dealer_1082,Independent,Delhi NCR,Ghaziabad
+D1083,Dealer_1083,Independent,Kerala,Thiruvananthapuram
+D1084,Dealer_1084,Large Retailer,West Bengal,Kolkata
+D1085,Dealer_1085,Independent,Delhi NCR,Gurugram
+D1086,Dealer_1086,Multi Brand,Karnataka,Mysuru
+D1087,Dealer_1087,Large Retailer,Maharashtra,Nashik
+D1088,Dealer_1088,Large Retailer,Tamil Nadu,Trichy
+D1089,Dealer_1089,Multi Brand,Delhi NCR,Gurugram
+D1090,Dealer_1090,Large Retailer,Karnataka,Mysuru
+D1091,Dealer_1091,Independent,Delhi NCR,Delhi
+D1092,Dealer_1092,Multi Brand,Maharashtra,Pune
+D1093,Dealer_1093,Independent,Kerala,Thiruvananthapuram
+D1094,Dealer_1094,Multi Brand,Karnataka,Hubballi
+D1095,Dealer_1095,Multi Brand,Telangana,Warangal
+D1096,Dealer_1096,Independent,Tamil Nadu,Salem
+D1097,Dealer_1097,Multi Brand,Maharashtra,Pune
+D1098,Dealer_1098,Multi Brand,Delhi NCR,Ghaziabad
+D1099,Dealer_1099,Multi Brand,West Bengal,Siliguri
+D1100,Dealer_1100,Multi Brand,Telangana,Hyderabad
+D1101,Dealer_1101,Multi Brand,Tamil Nadu,Salem
+D1102,Dealer_1102,Multi Brand,Kerala,Kochi
+D1103,Dealer_1103,Multi Brand,Andhra Pradesh,Visakhapatnam
+D1104,Dealer_1104,Multi Brand,West Bengal,Kolkata
+D1105,Dealer_1105,Large Retailer,Delhi NCR,Ghaziabad
+D1106,Dealer_1106,Independent,Andhra Pradesh,Vijayawada
+D1107,Dealer_1107,Large Retailer,Karnataka,Mangaluru
+D1108,Dealer_1108,Large Retailer,Maharashtra,Nashik
+D1109,Dealer_1109,Independent,West Bengal,Siliguri
+D1110,Dealer_1110,Large Retailer,Telangana,Hyderabad
+D1111,Dealer_1111,Multi Brand,West Bengal,Siliguri
+D1112,Dealer_1112,Independent,Delhi NCR,Noida
+D1113,Dealer_1113,Multi Brand,Karnataka,Mysuru
+D1114,Dealer_1114,Multi Brand,Kerala,Kozhikode
+D1115,Dealer_1115,Independent,Kerala,Thiruvananthapuram
+D1116,Dealer_1116,Large Retailer,Kerala,Kozhikode
+D1117,Dealer_1117,Multi Brand,Andhra Pradesh,Vijayawada
+D1118,Dealer_1118,Multi Brand,Telangana,Nizamabad
+D1119,Dealer_1119,Multi Brand,Andhra Pradesh,Tirupati
+D1120,Dealer_1120,Large Retailer,Telangana,Warangal
+D1121,Dealer_1121,Multi Brand,West Bengal,Kolkata
+D1122,Dealer_1122,Large Retailer,West Bengal,Kolkata
+D1123,Dealer_1123,Large Retailer,Delhi NCR,Delhi
+D1124,Dealer_1124,Large Retailer,Kerala,Thiruvananthapuram
+D1125,Dealer_1125,Independent,Delhi NCR,Delhi
+D1126,Dealer_1126,Large Retailer,Telangana,Hyderabad
+D1127,Dealer_1127,Multi Brand,Maharashtra,Nashik
+D1128,Dealer_1128,Large Retailer,West Bengal,Kolkata
+D1129,Dealer_1129,Large Retailer,Delhi NCR,Delhi
+D1130,Dealer_1130,Large Retailer,West Bengal,Kolkata
+D1131,Dealer_1131,Multi Brand,Karnataka,Mangaluru
+D1132,Dealer_1132,Large Retailer,Telangana,Hyderabad
+D1133,Dealer_1133,Large Retailer,Kerala,Kozhikode
+D1134,Dealer_1134,Multi Brand,Telangana,Nizamabad
+D1135,Dealer_1135,Multi Brand,Maharashtra,Nagpur
+D1136,Dealer_1136,Multi Brand,Kerala,Thiruvananthapuram
+D1137,Dealer_1137,Independent,Kerala,Kozhikode
+D1138,Dealer_1138,Large Retailer,Kerala,Kochi
+D1139,Dealer_1139,Multi Brand,Kerala,Thiruvananthapuram
+D1140,Dealer_1140,Independent,Karnataka,Mangaluru
+D1141,Dealer_1141,Multi Brand,Tamil Nadu,Tirunelveli
+D1142,Dealer_1142,Large Retailer,Karnataka,Mangaluru
+D1143,Dealer_1143,Independent,Tamil Nadu,Salem
+D1144,Dealer_1144,Multi Brand,Tamil Nadu,Trichy
+D1145,Dealer_1145,Independent,Maharashtra,Nagpur
+D1146,Dealer_1146,Multi Brand,Karnataka,Mysuru
+D1147,Dealer_1147,Large Retailer,Tamil Nadu,Coimbatore
+D1148,Dealer_1148,Independent,Andhra Pradesh,Tirupati
+D1149,Dealer_1149,Independent,Kerala,Kozhikode
+D1150,Dealer_1150,Multi Brand,Tamil Nadu,Chennai
+D1151,Dealer_1151,Large Retailer,Delhi NCR,Noida
+D1152,Dealer_1152,Multi Brand,Delhi NCR,Gurugram
+D1153,Dealer_1153,Large Retailer,Telangana,Hyderabad
+D1154,Dealer_1154,Multi Brand,Andhra Pradesh,Visakhapatnam
+D1155,Dealer_1155,Large Retailer,Karnataka,Bengaluru
+D1156,Dealer_1156,Independent,Kerala,Kochi
+D1157,Dealer_1157,Independent,Tamil Nadu,Coimbatore
+D1158,Dealer_1158,Multi Brand,West Bengal,Siliguri
+D1159,Dealer_1159,Large Retailer,Tamil Nadu,Coimbatore
+D1160,Dealer_1160,Multi Brand,West Bengal,Siliguri
+D1161,Dealer_1161,Independent,Kerala,Kochi
+D1162,Dealer_1162,Multi Brand,Delhi NCR,Noida
+D1163,Dealer_1163,Independent,Telangana,Warangal
+D1164,Dealer_1164,Independent,Maharashtra,Nashik
+D1165,Dealer_1165,Multi Brand,Karnataka,Mysuru
+D1166,Dealer_1166,Independent,Andhra Pradesh,Visakhapatnam
+D1167,Dealer_1167,Multi Brand,Karnataka,Mysuru
+D1168,Dealer_1168,Large Retailer,Andhra Pradesh,Guntur
+D1169,Dealer_1169,Independent,Maharashtra,Pune
+D1170,Dealer_1170,Large Retailer,Telangana,Nizamabad
+D1171,Dealer_1171,Large Retailer,Andhra Pradesh,Tirupati
+D1172,Dealer_1172,Large Retailer,Tamil Nadu,Salem
+D1173,Dealer_1173,Multi Brand,Delhi NCR,Ghaziabad
+D1174,Dealer_1174,Independent,Karnataka,Mangaluru
+D1175,Dealer_1175,Large Retailer,Maharashtra,Nagpur
+D1176,Dealer_1176,Large Retailer,Tamil Nadu,Coimbatore
+D1177,Dealer_1177,Large Retailer,Kerala,Kochi
+D1178,Dealer_1178,Multi Brand,Telangana,Warangal
+D1179,Dealer_1179,Large Retailer,Andhra Pradesh,Visakhapatnam
+D1180,Dealer_1180,Multi Brand,Telangana,Nizamabad
+D1181,Dealer_1181,Independent,Maharashtra,Nagpur
+D1182,Dealer_1182,Large Retailer,Andhra Pradesh,Vijayawada
+D1183,Dealer_1183,Multi Brand,Delhi NCR,Noida
+D1184,Dealer_1184,Large Retailer,Telangana,Hyderabad
+D1185,Dealer_1185,Independent,Telangana,Hyderabad
+D1186,Dealer_1186,Large Retailer,Kerala,Kozhikode
+D1187,Dealer_1187,Large Retailer,Delhi NCR,Delhi
+D1188,Dealer_1188,Independent,Karnataka,Mysuru
+D1189,Dealer_1189,Large Retailer,Maharashtra,Mumbai
+D1190,Dealer_1190,Large Retailer,West Bengal,Kolkata
+D1191,Dealer_1191,Multi Brand,Delhi NCR,Gurugram
+D1192,Dealer_1192,Large Retailer,Kerala,Thiruvananthapuram
+D1193,Dealer_1193,Large Retailer,Kerala,Thiruvananthapuram
+D1194,Dealer_1194,Independent,Delhi NCR,Gurugram
+D1195,Dealer_1195,Multi Brand,West Bengal,Siliguri
+D1196,Dealer_1196,Multi Brand,Telangana,Warangal
+D1197,Dealer_1197,Independent,West Bengal,Kolkata
+D1198,Dealer_1198,Multi Brand,Delhi NCR,Delhi
+D1199,Dealer_1199,Large Retailer,Tamil Nadu,Madurai
+D1200,Dealer_1200,Multi Brand,Tamil Nadu,Chennai
+D1201,Dealer_1201,Independent,Telangana,Nizamabad
+D1202,Dealer_1202,Multi Brand,Tamil Nadu,Madurai
+D1203,Dealer_1203,Multi Brand,Tamil Nadu,Tirunelveli
+D1204,Dealer_1204,Independent,Andhra Pradesh,Tirupati
+D1205,Dealer_1205,Independent,West Bengal,Siliguri
+D1206,Dealer_1206,Multi Brand,Maharashtra,Mumbai
+D1207,Dealer_1207,Large Retailer,Tamil Nadu,Salem
+D1208,Dealer_1208,Independent,Andhra Pradesh,Guntur
+D1209,Dealer_1209,Large Retailer,West Bengal,Kolkata
+D1210,Dealer_1210,Multi Brand,Karnataka,Hubballi
+D1211,Dealer_1211,Multi Brand,Andhra Pradesh,Vijayawada
+D1212,Dealer_1212,Large Retailer,Telangana,Nizamabad
+D1213,Dealer_1213,Multi Brand,West Bengal,Kolkata
+D1214,Dealer_1214,Independent,West Bengal,Kolkata
+D1215,Dealer_1215,Large Retailer,West Bengal,Siliguri
+D1216,Dealer_1216,Multi Brand,Karnataka,Bengaluru
+D1217,Dealer_1217,Large Retailer,Delhi NCR,Delhi
+D1218,Dealer_1218,Independent,Karnataka,Bengaluru
+D1219,Dealer_1219,Multi Brand,Telangana,Hyderabad
+D1220,Dealer_1220,Independent,Andhra Pradesh,Visakhapatnam
+D1221,Dealer_1221,Multi Brand,Delhi NCR,Noida
+D1222,Dealer_1222,Large Retailer,Karnataka,Hubballi
+D1223,Dealer_1223,Multi Brand,Telangana,Nizamabad
+D1224,Dealer_1224,Large Retailer,Tamil Nadu,Salem
+D1225,Dealer_1225,Large Retailer,Karnataka,Mysuru
+D1226,Dealer_1226,Multi Brand,West Bengal,Kolkata
+D1227,Dealer_1227,Large Retailer,Tamil Nadu,Tirunelveli
+D1228,Dealer_1228,Multi Brand,Maharashtra,Pune
+D1229,Dealer_1229,Multi Brand,Delhi NCR,Noida
+D1230,Dealer_1230,Large Retailer,Delhi NCR,Noida
+D1231,Dealer_1231,Large Retailer,Maharashtra,Pune
+D1232,Dealer_1232,Multi Brand,Maharashtra,Nagpur
+D1233,Dealer_1233,Multi Brand,Tamil Nadu,Salem
+D1234,Dealer_1234,Multi Brand,Tamil Nadu,Chennai
+D1235,Dealer_1235,Independent,Maharashtra,Nagpur
+D1236,Dealer_1236,Large Retailer,Telangana,Nizamabad
+D1237,Dealer_1237,Large Retailer,Tamil Nadu,Salem
+D1238,Dealer_1238,Multi Brand,Delhi NCR,Delhi
+D1239,Dealer_1239,Independent,Delhi NCR,Delhi
+D1240,Dealer_1240,Multi Brand,Tamil Nadu,Trichy
+D1241,Dealer_1241,Independent,Kerala,Thiruvananthapuram
+D1242,Dealer_1242,Large Retailer,Maharashtra,Nagpur
+D1243,Dealer_1243,Multi Brand,Tamil Nadu,Trichy
+D1244,Dealer_1244,Large Retailer,Tamil Nadu,Salem
+D1245,Dealer_1245,Independent,Telangana,Nizamabad
+D1246,Dealer_1246,Multi Brand,Karnataka,Hubballi
+D1247,Dealer_1247,Independent,Delhi NCR,Ghaziabad
+D1248,Dealer_1248,Large Retailer,Telangana,Nizamabad
+D1249,Dealer_1249,Independent,Kerala,Kozhikode
+D1250,Dealer_1250,Multi Brand,Tamil Nadu,Coimbatore
+D1251,Dealer_1251,Large Retailer,Telangana,Nizamabad
+D1252,Dealer_1252,Multi Brand,West Bengal,Durgapur
+D1253,Dealer_1253,Multi Brand,Karnataka,Mysuru
+D1254,Dealer_1254,Large Retailer,Karnataka,Mysuru
+D1255,Dealer_1255,Multi Brand,Tamil Nadu,Madurai
+D1256,Dealer_1256,Multi Brand,Telangana,Nizamabad
+D1257,Dealer_1257,Large Retailer,Andhra Pradesh,Vijayawada
+D1258,Dealer_1258,Multi Brand,Kerala,Kochi
+D1259,Dealer_1259,Multi Brand,Telangana,Warangal
+D1260,Dealer_1260,Large Retailer,Telangana,Nizamabad
+D1261,Dealer_1261,Large Retailer,Telangana,Warangal
+D1262,Dealer_1262,Multi Brand,Maharashtra,Pune
+D1263,Dealer_1263,Multi Brand,Tamil Nadu,Salem
+D1264,Dealer_1264,Independent,West Bengal,Siliguri
+D1265,Dealer_1265,Large Retailer,West Bengal,Siliguri
+D1266,Dealer_1266,Multi Brand,Tamil Nadu,Salem
+D1267,Dealer_1267,Multi Brand,Maharashtra,Nagpur
+D1268,Dealer_1268,Large Retailer,Telangana,Warangal
+D1269,Dealer_1269,Large Retailer,Telangana,Hyderabad
+D1270,Dealer_1270,Large Retailer,Delhi NCR,Ghaziabad
+D1271,Dealer_1271,Independent,Maharashtra,Mumbai
+D1272,Dealer_1272,Multi Brand,West Bengal,Durgapur
+D1273,Dealer_1273,Large Retailer,Kerala,Thiruvananthapuram
+D1274,Dealer_1274,Large Retailer,Kerala,Kochi
+D1275,Dealer_1275,Independent,Delhi NCR,Ghaziabad
+D1276,Dealer_1276,Multi Brand,Tamil Nadu,Madurai
+D1277,Dealer_1277,Multi Brand,Karnataka,Bengaluru
+D1278,Dealer_1278,Multi Brand,West Bengal,Durgapur
+D1279,Dealer_1279,Multi Brand,West Bengal,Durgapur
+D1280,Dealer_1280,Large Retailer,Maharashtra,Nashik
+D1281,Dealer_1281,Multi Brand,Andhra Pradesh,Visakhapatnam
+D1282,Dealer_1282,Multi Brand,Andhra Pradesh,Visakhapatnam
+D1283,Dealer_1283,Independent,Andhra Pradesh,Tirupati
+D1284,Dealer_1284,Large Retailer,Telangana,Hyderabad
+D1285,Dealer_1285,Independent,Kerala,Kozhikode
+D1286,Dealer_1286,Multi Brand,Kerala,Thiruvananthapuram
+D1287,Dealer_1287,Multi Brand,Karnataka,Bengaluru
+D1288,Dealer_1288,Multi Brand,Telangana,Nizamabad
+D1289,Dealer_1289,Multi Brand,Karnataka,Mangaluru
+D1290,Dealer_1290,Independent,Karnataka,Mysuru
+D1291,Dealer_1291,Large Retailer,Maharashtra,Pune
+D1292,Dealer_1292,Independent,Andhra Pradesh,Tirupati
+D1293,Dealer_1293,Independent,Delhi NCR,Gurugram
+D1294,Dealer_1294,Independent,Tamil Nadu,Salem
+D1295,Dealer_1295,Multi Brand,Karnataka,Mysuru
+D1296,Dealer_1296,Multi Brand,West Bengal,Durgapur
+D1297,Dealer_1297,Large Retailer,Andhra Pradesh,Visakhapatnam
+D1298,Dealer_1298,Multi Brand,Tamil Nadu,Madurai
+D1299,Dealer_1299,Large Retailer,Telangana,Warangal
+D1300,Dealer_1300,Multi Brand,West Bengal,Durgapur
+D1301,Dealer_1301,Multi Brand,Telangana,Warangal
+D1302,Dealer_1302,Multi Brand,Maharashtra,Mumbai
+D1303,Dealer_1303,Large Retailer,Karnataka,Bengaluru
+D1304,Dealer_1304,Large Retailer,Andhra Pradesh,Visakhapatnam
+D1305,Dealer_1305,Independent,Delhi NCR,Noida
+D1306,Dealer_1306,Independent,Delhi NCR,Delhi
+D1307,Dealer_1307,Independent,Delhi NCR,Delhi
+D1308,Dealer_1308,Large Retailer,Tamil Nadu,Coimbatore
+D1309,Dealer_1309,Multi Brand,Andhra Pradesh,Guntur
+D1310,Dealer_1310,Multi Brand,Karnataka,Mysuru
+D1311,Dealer_1311,Multi Brand,Andhra Pradesh,Guntur
+D1312,Dealer_1312,Multi Brand,Telangana,Warangal
+D1313,Dealer_1313,Independent,Karnataka,Mysuru
+D1314,Dealer_1314,Multi Brand,Karnataka,Mangaluru
+D1315,Dealer_1315,Multi Brand,Delhi NCR,Ghaziabad
+D1316,Dealer_1316,Multi Brand,Karnataka,Hubballi
+D1317,Dealer_1317,Large Retailer,Andhra Pradesh,Guntur
+D1318,Dealer_1318,Independent,Kerala,Kozhikode
+D1319,Dealer_1319,Multi Brand,Delhi NCR,Gurugram
+D1320,Dealer_1320,Independent,Delhi NCR,Gurugram
+D1321,Dealer_1321,Large Retailer,West Bengal,Kolkata
+D1322,Dealer_1322,Multi Brand,Delhi NCR,Ghaziabad
+D1323,Dealer_1323,Independent,Telangana,Warangal
+D1324,Dealer_1324,Independent,Karnataka,Hubballi
+D1325,Dealer_1325,Independent,Andhra Pradesh,Guntur
+D1326,Dealer_1326,Large Retailer,West Bengal,Kolkata
+D1327,Dealer_1327,Multi Brand,Tamil Nadu,Tirunelveli
+D1328,Dealer_1328,Large Retailer,Kerala,Kochi
+D1329,Dealer_1329,Multi Brand,Maharashtra,Nagpur
+D1330,Dealer_1330,Independent,West Bengal,Siliguri
+D1331,Dealer_1331,Multi Brand,Andhra Pradesh,Visakhapatnam
+D1332,Dealer_1332,Large Retailer,West Bengal,Siliguri
+D1333,Dealer_1333,Multi Brand,Karnataka,Hubballi
+D1334,Dealer_1334,Multi Brand,Kerala,Kochi
+D1335,Dealer_1335,Independent,Kerala,Thiruvananthapuram
+D1336,Dealer_1336,Large Retailer,Karnataka,Bengaluru
+D1337,Dealer_1337,Independent,Karnataka,Mangaluru
+D1338,Dealer_1338,Large Retailer,Kerala,Kochi
+D1339,Dealer_1339,Multi Brand,Delhi NCR,Noida
+D1340,Dealer_1340,Large Retailer,Kerala,Kozhikode
+D1341,Dealer_1341,Large Retailer,West Bengal,Durgapur
+D1342,Dealer_1342,Multi Brand,West Bengal,Kolkata
+D1343,Dealer_1343,Multi Brand,Delhi NCR,Ghaziabad
+D1344,Dealer_1344,Multi Brand,Tamil Nadu,Salem
+D1345,Dealer_1345,Multi Brand,Maharashtra,Nashik
+D1346,Dealer_1346,Multi Brand,Karnataka,Mangaluru
+D1347,Dealer_1347,Independent,Karnataka,Hubballi
+D1348,Dealer_1348,Multi Brand,West Bengal,Kolkata
+D1349,Dealer_1349,Multi Brand,Karnataka,Mysuru
+D1350,Dealer_1350,Multi Brand,Karnataka,Hubballi
+D1351,Dealer_1351,Independent,Telangana,Nizamabad
+D1352,Dealer_1352,Multi Brand,Kerala,Kochi
+D1353,Dealer_1353,Large Retailer,Kerala,Kochi
+D1354,Dealer_1354,Large Retailer,Telangana,Hyderabad
+D1355,Dealer_1355,Multi Brand,West Bengal,Kolkata
+D1356,Dealer_1356,Large Retailer,Tamil Nadu,Tirunelveli
+D1357,Dealer_1357,Large Retailer,Maharashtra,Nashik
+D1358,Dealer_1358,Independent,Karnataka,Bengaluru
+D1359,Dealer_1359,Large Retailer,Andhra Pradesh,Vijayawada
+D1360,Dealer_1360,Independent,Tamil Nadu,Chennai
+D1361,Dealer_1361,Independent,Karnataka,Mysuru
+D1362,Dealer_1362,Multi Brand,Karnataka,Bengaluru
+D1363,Dealer_1363,Multi Brand,Delhi NCR,Noida
+D1364,Dealer_1364,Independent,West Bengal,Durgapur
+D1365,Dealer_1365,Large Retailer,Maharashtra,Pune
+D1366,Dealer_1366,Independent,Delhi NCR,Ghaziabad
+D1367,Dealer_1367,Multi Brand,Andhra Pradesh,Tirupati
+D1368,Dealer_1368,Multi Brand,Tamil Nadu,Chennai
+D1369,Dealer_1369,Independent,Telangana,Hyderabad
+D1370,Dealer_1370,Multi Brand,West Bengal,Siliguri
+D1371,Dealer_1371,Large Retailer,West Bengal,Kolkata
+D1372,Dealer_1372,Multi Brand,Telangana,Nizamabad
+D1373,Dealer_1373,Multi Brand,Telangana,Nizamabad
+D1374,Dealer_1374,Independent,Telangana,Nizamabad
+D1375,Dealer_1375,Multi Brand,Kerala,Kozhikode
+D1376,Dealer_1376,Large Retailer,Delhi NCR,Ghaziabad
+D1377,Dealer_1377,Independent,Karnataka,Mangaluru
+D1378,Dealer_1378,Multi Brand,Tamil Nadu,Madurai
+D1379,Dealer_1379,Multi Brand,Telangana,Warangal
+D1380,Dealer_1380,Large Retailer,Maharashtra,Nagpur
+D1381,Dealer_1381,Large Retailer,Kerala,Kochi
+D1382,Dealer_1382,Multi Brand,Maharashtra,Pune
+D1383,Dealer_1383,Multi Brand,Delhi NCR,Gurugram
+D1384,Dealer_1384,Multi Brand,Delhi NCR,Delhi
+D1385,Dealer_1385,Large Retailer,Delhi NCR,Noida
+D1386,Dealer_1386,Multi Brand,Telangana,Nizamabad
+D1387,Dealer_1387,Large Retailer,Kerala,Kochi
+D1388,Dealer_1388,Large Retailer,West Bengal,Siliguri
+D1389,Dealer_1389,Independent,Maharashtra,Nashik
+D1390,Dealer_1390,Large Retailer,Kerala,Thiruvananthapuram
+D1391,Dealer_1391,Large Retailer,Delhi NCR,Gurugram
+D1392,Dealer_1392,Independent,Tamil Nadu,Tirunelveli
+D1393,Dealer_1393,Multi Brand,Karnataka,Mysuru
+D1394,Dealer_1394,Large Retailer,Tamil Nadu,Madurai
+D1395,Dealer_1395,Multi Brand,Karnataka,Mangaluru
+D1396,Dealer_1396,Multi Brand,Karnataka,Mysuru
+D1397,Dealer_1397,Multi Brand,Maharashtra,Pune
+D1398,Dealer_1398,Independent,Maharashtra,Nashik
+D1399,Dealer_1399,Independent,Kerala,Kozhikode
+D1400,Dealer_1400,Independent,Kerala,Kochi
+D1401,Dealer_1401,Multi Brand,Delhi NCR,Delhi
+D1402,Dealer_1402,Multi Brand,Maharashtra,Mumbai
+D1403,Dealer_1403,Independent,Tamil Nadu,Madurai
+D1404,Dealer_1404,Large Retailer,Kerala,Thiruvananthapuram
+D1405,Dealer_1405,Large Retailer,Telangana,Hyderabad
+D1406,Dealer_1406,Multi Brand,Karnataka,Mangaluru
+D1407,Dealer_1407,Multi Brand,Maharashtra,Nagpur
+D1408,Dealer_1408,Large Retailer,West Bengal,Siliguri
+D1409,Dealer_1409,Independent,Tamil Nadu,Trichy
+D1410,Dealer_1410,Independent,Tamil Nadu,Tirunelveli
+D1411,Dealer_1411,Multi Brand,Karnataka,Bengaluru
+D1412,Dealer_1412,Multi Brand,Telangana,Nizamabad
+D1413,Dealer_1413,Multi Brand,Karnataka,Mysuru
+D1414,Dealer_1414,Multi Brand,Karnataka,Mysuru
+D1415,Dealer_1415,Independent,Telangana,Warangal
+D1416,Dealer_1416,Multi Brand,Andhra Pradesh,Visakhapatnam
+D1417,Dealer_1417,Multi Brand,West Bengal,Kolkata
+D1418,Dealer_1418,Independent,Telangana,Nizamabad
+D1419,Dealer_1419,Multi Brand,Kerala,Kochi
+D1420,Dealer_1420,Multi Brand,Kerala,Kochi
+D1421,Dealer_1421,Large Retailer,Delhi NCR,Delhi
+D1422,Dealer_1422,Independent,Telangana,Nizamabad
+D1423,Dealer_1423,Multi Brand,Maharashtra,Mumbai
+D1424,Dealer_1424,Multi Brand,Telangana,Hyderabad
+D1425,Dealer_1425,Large Retailer,West Bengal,Durgapur
+D1426,Dealer_1426,Large Retailer,Maharashtra,Mumbai
+D1427,Dealer_1427,Independent,Tamil Nadu,Coimbatore
+D1428,Dealer_1428,Multi Brand,Delhi NCR,Delhi
+D1429,Dealer_1429,Multi Brand,Tamil Nadu,Coimbatore
+D1430,Dealer_1430,Independent,West Bengal,Kolkata
+D1431,Dealer_1431,Multi Brand,Karnataka,Mysuru
+D1432,Dealer_1432,Multi Brand,Telangana,Nizamabad
+D1433,Dealer_1433,Multi Brand,Andhra Pradesh,Vijayawada
+D1434,Dealer_1434,Multi Brand,Tamil Nadu,Salem
+D1435,Dealer_1435,Large Retailer,Delhi NCR,Gurugram
+D1436,Dealer_1436,Large Retailer,Karnataka,Bengaluru
+D1437,Dealer_1437,Multi Brand,Maharashtra,Nagpur
+D1438,Dealer_1438,Multi Brand,West Bengal,Kolkata
+D1439,Dealer_1439,Multi Brand,Telangana,Warangal
+D1440,Dealer_1440,Multi Brand,Andhra Pradesh,Guntur
+D1441,Dealer_1441,Large Retailer,Karnataka,Mangaluru
+D1442,Dealer_1442,Multi Brand,Andhra Pradesh,Vijayawada
+D1443,Dealer_1443,Multi Brand,Delhi NCR,Ghaziabad
+D1444,Dealer_1444,Large Retailer,West Bengal,Siliguri
+D1445,Dealer_1445,Large Retailer,Karnataka,Hubballi
+D1446,Dealer_1446,Multi Brand,Karnataka,Hubballi
+D1447,Dealer_1447,Large Retailer,Kerala,Thiruvananthapuram
+D1448,Dealer_1448,Independent,Andhra Pradesh,Visakhapatnam
+D1449,Dealer_1449,Multi Brand,West Bengal,Kolkata
+D1450,Dealer_1450,Independent,Andhra Pradesh,Guntur
+D1451,Dealer_1451,Multi Brand,Delhi NCR,Delhi
+D1452,Dealer_1452,Independent,Tamil Nadu,Chennai
+D1453,Dealer_1453,Independent,Karnataka,Mysuru
+D1454,Dealer_1454,Independent,Andhra Pradesh,Tirupati
+D1455,Dealer_1455,Independent,Tamil Nadu,Coimbatore
+D1456,Dealer_1456,Large Retailer,Karnataka,Mysuru
+D1457,Dealer_1457,Large Retailer,West Bengal,Durgapur
+D1458,Dealer_1458,Multi Brand,Delhi NCR,Ghaziabad
+D1459,Dealer_1459,Independent,Telangana,Warangal
+D1460,Dealer_1460,Large Retailer,Kerala,Kochi
+D1461,Dealer_1461,Independent,West Bengal,Siliguri
+D1462,Dealer_1462,Large Retailer,Andhra Pradesh,Visakhapatnam
+D1463,Dealer_1463,Independent,Tamil Nadu,Chennai
+D1464,Dealer_1464,Large Retailer,Tamil Nadu,Salem
+D1465,Dealer_1465,Independent,West Bengal,Durgapur
+D1466,Dealer_1466,Independent,Maharashtra,Nashik
+D1467,Dealer_1467,Large Retailer,Delhi NCR,Ghaziabad
+D1468,Dealer_1468,Independent,Delhi NCR,Delhi
+D1469,Dealer_1469,Large Retailer,Andhra Pradesh,Visakhapatnam
+D1470,Dealer_1470,Independent,Delhi NCR,Delhi
+D1471,Dealer_1471,Large Retailer,Maharashtra,Mumbai
+D1472,Dealer_1472,Large Retailer,Delhi NCR,Gurugram
+D1473,Dealer_1473,Large Retailer,Kerala,Thiruvananthapuram
+D1474,Dealer_1474,Multi Brand,Kerala,Kozhikode
+D1475,Dealer_1475,Multi Brand,Karnataka,Hubballi
+D1476,Dealer_1476,Independent,Maharashtra,Pune
+D1477,Dealer_1477,Multi Brand,West Bengal,Kolkata
+D1478,Dealer_1478,Large Retailer,West Bengal,Durgapur
+D1479,Dealer_1479,Large Retailer,Maharashtra,Nagpur
+D1480,Dealer_1480,Multi Brand,West Bengal,Durgapur
+D1481,Dealer_1481,Multi Brand,Andhra Pradesh,Vijayawada
+D1482,Dealer_1482,Independent,Delhi NCR,Gurugram
+D1483,Dealer_1483,Large Retailer,Delhi NCR,Delhi
+D1484,Dealer_1484,Large Retailer,Karnataka,Mangaluru
+D1485,Dealer_1485,Independent,West Bengal,Durgapur
+D1486,Dealer_1486,Large Retailer,Tamil Nadu,Madurai
+D1487,Dealer_1487,Large Retailer,Tamil Nadu,Tirunelveli
+D1488,Dealer_1488,Independent,Karnataka,Mangaluru
+D1489,Dealer_1489,Independent,Telangana,Warangal
+D1490,Dealer_1490,Independent,Maharashtra,Nagpur
+D1491,Dealer_1491,Large Retailer,Telangana,Nizamabad
+D1492,Dealer_1492,Independent,Maharashtra,Nagpur
+D1493,Dealer_1493,Independent,Kerala,Thiruvananthapuram
+D1494,Dealer_1494,Large Retailer,West Bengal,Kolkata
+D1495,Dealer_1495,Independent,Karnataka,Mangaluru
+D1496,Dealer_1496,Large Retailer,West Bengal,Durgapur
+D1497,Dealer_1497,Multi Brand,Delhi NCR,Gurugram
+D1498,Dealer_1498,Large Retailer,Tamil Nadu,Trichy
+D1499,Dealer_1499,Independent,West Bengal,Siliguri
+D1500,Dealer_1500,Independent,Tamil Nadu,Chennai
+D1501,Dealer_1501,Multi Brand,Karnataka,Mysuru
+D1502,Dealer_1502,Independent,Andhra Pradesh,Vijayawada
+D1503,Dealer_1503,Large Retailer,Maharashtra,Mumbai
+D1504,Dealer_1504,Multi Brand,Karnataka,Mangaluru
+D1505,Dealer_1505,Large Retailer,Karnataka,Mangaluru
+D1506,Dealer_1506,Large Retailer,Kerala,Kozhikode
+D1507,Dealer_1507,Independent,Kerala,Kochi
+D1508,Dealer_1508,Large Retailer,Telangana,Warangal
+D1509,Dealer_1509,Large Retailer,Delhi NCR,Noida
+D1510,Dealer_1510,Multi Brand,West Bengal,Kolkata
+D1511,Dealer_1511,Independent,Karnataka,Mangaluru
+D1512,Dealer_1512,Multi Brand,West Bengal,Durgapur
+D1513,Dealer_1513,Large Retailer,Maharashtra,Pune
+D1514,Dealer_1514,Large Retailer,Telangana,Warangal
+D1515,Dealer_1515,Multi Brand,Telangana,Warangal
+D1516,Dealer_1516,Multi Brand,Karnataka,Hubballi
+D1517,Dealer_1517,Large Retailer,Karnataka,Mysuru
+D1518,Dealer_1518,Large Retailer,Tamil Nadu,Trichy
+D1519,Dealer_1519,Multi Brand,Tamil Nadu,Salem
+D1520,Dealer_1520,Independent,Delhi NCR,Gurugram
+D1521,Dealer_1521,Multi Brand,Karnataka,Mangaluru
+D1522,Dealer_1522,Multi Brand,Telangana,Warangal
+D1523,Dealer_1523,Large Retailer,Tamil Nadu,Trichy
+D1524,Dealer_1524,Multi Brand,Telangana,Hyderabad
+D1525,Dealer_1525,Multi Brand,Maharashtra,Pune
+D1526,Dealer_1526,Independent,Tamil Nadu,Trichy
+D1527,Dealer_1527,Independent,West Bengal,Siliguri
+D1528,Dealer_1528,Multi Brand,Delhi NCR,Delhi
+D1529,Dealer_1529,Independent,West Bengal,Siliguri
+D1530,Dealer_1530,Multi Brand,Maharashtra,Mumbai
+D1531,Dealer_1531,Large Retailer,Delhi NCR,Gurugram
+D1532,Dealer_1532,Multi Brand,Karnataka,Hubballi
+D1533,Dealer_1533,Large Retailer,Andhra Pradesh,Visakhapatnam
+D1534,Dealer_1534,Multi Brand,Delhi NCR,Delhi
+D1535,Dealer_1535,Large Retailer,Telangana,Warangal
+D1536,Dealer_1536,Multi Brand,Delhi NCR,Noida
+D1537,Dealer_1537,Multi Brand,West Bengal,Siliguri
+D1538,Dealer_1538,Multi Brand,Telangana,Hyderabad
+D1539,Dealer_1539,Independent,Kerala,Kochi
+D1540,Dealer_1540,Multi Brand,Maharashtra,Mumbai
+D1541,Dealer_1541,Independent,Karnataka,Mysuru
+D1542,Dealer_1542,Multi Brand,Telangana,Hyderabad
+D1543,Dealer_1543,Multi Brand,West Bengal,Durgapur
+D1544,Dealer_1544,Independent,Kerala,Kochi
+D1545,Dealer_1545,Large Retailer,Maharashtra,Nagpur
+D1546,Dealer_1546,Independent,Andhra Pradesh,Guntur
+D1547,Dealer_1547,Independent,West Bengal,Siliguri
+D1548,Dealer_1548,Independent,West Bengal,Kolkata
+D1549,Dealer_1549,Large Retailer,Telangana,Hyderabad
+D1550,Dealer_1550,Multi Brand,Tamil Nadu,Coimbatore
+D1551,Dealer_1551,Multi Brand,Kerala,Thiruvananthapuram
+D1552,Dealer_1552,Multi Brand,Andhra Pradesh,Guntur
+D1553,Dealer_1553,Multi Brand,Karnataka,Mysuru
+D1554,Dealer_1554,Independent,Kerala,Kochi
+D1555,Dealer_1555,Large Retailer,Kerala,Kochi
+D1556,Dealer_1556,Independent,Maharashtra,Mumbai
+D1557,Dealer_1557,Large Retailer,Kerala,Kozhikode
+D1558,Dealer_1558,Multi Brand,Tamil Nadu,Salem
+D1559,Dealer_1559,Multi Brand,West Bengal,Durgapur
+D1560,Dealer_1560,Multi Brand,Telangana,Hyderabad
+D1561,Dealer_1561,Large Retailer,Telangana,Warangal
+D1562,Dealer_1562,Multi Brand,Tamil Nadu,Salem
+D1563,Dealer_1563,Multi Brand,Delhi NCR,Noida
+D1564,Dealer_1564,Large Retailer,Delhi NCR,Noida
+D1565,Dealer_1565,Large Retailer,Delhi NCR,Gurugram
+D1566,Dealer_1566,Large Retailer,West Bengal,Durgapur
+D1567,Dealer_1567,Multi Brand,Delhi NCR,Delhi
+D1568,Dealer_1568,Multi Brand,Telangana,Warangal
+D1569,Dealer_1569,Independent,Tamil Nadu,Salem
+D1570,Dealer_1570,Large Retailer,Karnataka,Hubballi
+D1571,Dealer_1571,Multi Brand,Kerala,Kochi
+D1572,Dealer_1572,Large Retailer,Tamil Nadu,Madurai
+D1573,Dealer_1573,Independent,Delhi NCR,Noida
+D1574,Dealer_1574,Independent,Karnataka,Mysuru
+D1575,Dealer_1575,Independent,Tamil Nadu,Salem
+D1576,Dealer_1576,Large Retailer,Tamil Nadu,Coimbatore
+D1577,Dealer_1577,Independent,West Bengal,Durgapur
+D1578,Dealer_1578,Multi Brand,Tamil Nadu,Trichy
+D1579,Dealer_1579,Independent,Kerala,Kozhikode
+D1580,Dealer_1580,Large Retailer,Maharashtra,Nashik
+D1581,Dealer_1581,Independent,Tamil Nadu,Chennai
+D1582,Dealer_1582,Multi Brand,Delhi NCR,Delhi
+D1583,Dealer_1583,Large Retailer,Andhra Pradesh,Guntur
+D1584,Dealer_1584,Multi Brand,Telangana,Warangal
+D1585,Dealer_1585,Multi Brand,Telangana,Hyderabad
+D1586,Dealer_1586,Independent,Kerala,Kochi
+D1587,Dealer_1587,Multi Brand,Telangana,Hyderabad
+D1588,Dealer_1588,Large Retailer,Kerala,Kochi
+D1589,Dealer_1589,Multi Brand,Tamil Nadu,Coimbatore
+D1590,Dealer_1590,Independent,Karnataka,Hubballi
+D1591,Dealer_1591,Large Retailer,Karnataka,Hubballi
+D1592,Dealer_1592,Large Retailer,Maharashtra,Nashik
+D1593,Dealer_1593,Multi Brand,Maharashtra,Nashik
+D1594,Dealer_1594,Independent,Andhra Pradesh,Tirupati
+D1595,Dealer_1595,Large Retailer,Karnataka,Mysuru
+D1596,Dealer_1596,Independent,Kerala,Kochi
+D1597,Dealer_1597,Independent,West Bengal,Siliguri
+D1598,Dealer_1598,Large Retailer,Kerala,Thiruvananthapuram
+D1599,Dealer_1599,Large Retailer,Karnataka,Bengaluru
+D1600,Dealer_1600,Large Retailer,Andhra Pradesh,Vijayawada
